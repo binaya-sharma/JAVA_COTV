@@ -2,7 +2,7 @@ package cotiviti;
 
 import com.sun.jdi.PathSearchingVirtualMachine;
 
-public class Const {
+public  class Const {
     // A constructor in Java is similar to a method that is invoked when an object of the class is created.
     // Unlike Java methods, a constructor has the same name as that of the class and does not have any return type.
     // For example, class Test { Test() { // constructor body } } Here, Test() is a constructor.
