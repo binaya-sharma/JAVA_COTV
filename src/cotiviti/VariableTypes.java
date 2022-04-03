@@ -1,7 +1,7 @@
 package cotiviti;
 
 public class VariableTypes {
-    static String ThisIsStaticVariable = "Binaya"; // Static Variable # Memory alloted only once
+    public static String ThisIsStaticVariable = "Binaya"; // Static Variable # Memory alloted only once
     String ThisIsInstanceVariable = "Bishwash"; // Instance variable #Inside class outside method
 
     public static void main(String[] args) {
